@@ -18,6 +18,7 @@ pkg/
 Gopkg.lock
 go.sum
 secrets.go
+voice-assistand-gpt
 
 # IDEs and editors
 .vscode/
