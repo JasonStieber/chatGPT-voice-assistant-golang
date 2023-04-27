@@ -17,6 +17,7 @@ pkg/
 .go-version
 Gopkg.lock
 go.sum
+secrets.go
 
 # IDEs and editors
 .vscode/
